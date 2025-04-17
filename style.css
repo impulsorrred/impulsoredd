@@ -1,0 +1,30 @@
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to bottom, #6a11cb, #2575fc);
+  color: white;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+header {
+  background: #1b0033;
+  padding: 1rem;
+}
+nav a {
+  margin: 0 1rem;
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bold;
+}
+.whatsapp-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #25d366;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 50px;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
